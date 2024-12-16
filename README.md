@@ -1,4 +1,4 @@
-# 635-Final-
+# 635-Final
 ## Group detail
 __Course Name:__ E&C-ENG 535:635 (157437) FA24  
 __Instructor:__ Fatima Anwar  
